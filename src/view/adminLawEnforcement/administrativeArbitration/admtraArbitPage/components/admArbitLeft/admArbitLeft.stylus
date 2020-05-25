@@ -1,0 +1,16 @@
+.admArbitLeft
+  float left
+  margin-left 20px;
+  width 440px
+  height 950px
+  background url("../../../../../../assets/adminLegislation/right.png") no-repeat
+  background-size 100% 100%
+  .leftTop
+    width: 100%;
+    height: 284px;
+  .leftMid
+    width 100%
+    height: 228px;
+  .leftBot
+    width 100%
+    height: 296px;

@@ -1,0 +1,26 @@
+.opCollectionMid
+  width 100%
+  height 840px
+  .aLegTop, .aLegBot
+    width 100%
+    height 410px
+    background url("../../../../../../assets/adminLegislation/leftcentre.png") no-repeat
+    background-size 100% 100%
+  .aLegTop
+    position relative
+    .topCharts
+      width 100%
+      height calc(100% - 46px)
+    .edit
+      position absolute
+      top 30px
+      right 0
+      color #00c8ff
+      font-size: 30px;
+      line-height: 1;
+      cursor pointer
+  .aLegBot
+    margin-top 20px
+    .botCharts
+      width 100%
+      height calc(100% - 46px)

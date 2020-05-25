@@ -1,0 +1,13 @@
+.admArbitRight
+  float left
+  margin-left 20px;
+  width 440px
+  height 950px
+  background url("../../../../../../assets/adminLawEnforcement/right.png") no-repeat
+  background-size 100% 100%
+  .rightTop
+    width: 100%;
+    height: 284px;
+  .rightBot
+    width 100%
+    height: 572px;

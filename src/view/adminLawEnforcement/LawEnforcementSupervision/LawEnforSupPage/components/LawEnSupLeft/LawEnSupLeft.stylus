@@ -1,0 +1,16 @@
+.LawEnSupLeft
+  float left
+  margin-left 20px;
+  width 440px
+  height 950px
+  background url("../../../../../../assets/adminLawEnforcement/left.png") no-repeat
+  background-size 100% 100%
+  .leftTop
+    width: 100%;
+    height: 224px;
+  .leftMid
+    width 100%
+    height: 290px;
+  .leftBot
+    width 100%
+    height: 296px;

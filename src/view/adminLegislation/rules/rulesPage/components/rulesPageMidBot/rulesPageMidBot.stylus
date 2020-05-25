@@ -1,0 +1,9 @@
+.rulesPageMidBot
+  margin-top 20px;
+  width 100%
+  height 368px
+  background url("../../../../../../assets/adminLegislation/mid.png") no-repeat
+  background-size 100% 100%
+  .mbChart
+    width 100%
+    height calc(100% - 46px)
